@@ -4,9 +4,9 @@ class Artist
 
 attr_accessor :name
 
-def artist
-    artist = Artist.new(name)
-end
+# def artist
+#     artist = Artist.new(name)
+# end
 
 
 
